@@ -1,17 +1,15 @@
 # Inicio de sesion REST 
 
-Este proyecto es un ejemplo de funcionamiento de un servicio resst, donde por medio de peticiones asincronas AJAX con la ayuda de JQuery se envia informacion en formato JSON que poteriormente Spring es capaz de convertir en objetos java que representan entidades de su base de datos.
+Este proyecto es un ejemplo de funcionamiento de un servicio resst, donde por medio de peticiones asincronas AJAX con la ayuda de JQuery se envia informacion en formato JSON que posteriormente Spring es capaz de convertir en objetos java que representan las entidades de su base de datos.
 
 ### Instalación
-1.-Cargar script 'script.sql' en base de datos (MySQL)
+1.-Cargar script 'script.sql' en base de datos (MySQL).
 
 2.-Para iniciar el servidor java REST:
 
-```
-Instalar eclipse IDE y bajar Spring tools del marketplace, una vez instalado, importar el projecto, hacer maven clean, maven install y finalmente spring run 
-```
+Instalar eclipse IDE y bajar Spring tools del marketplace, una vez instalado, importar el projecto, hacer maven clean, maven install y finalmente spring run.
 
-3.-Para hacer uso del frontend, abrir un navegador web para abrir el documento index.html, donde se puede agregar un nuevo usuario o iniciar sesión
+3.-Para hacer uso del frontend, abrir un navegador web para abrir el documento index.html, donde se puede agregar un nuevo usuario o iniciar sesión.
 
 ## Pruebas
 
